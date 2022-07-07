@@ -18,4 +18,4 @@ data/submission_data_test.zip - test data with issue status (correct/incorrect),
 <b> Result:</b> 
 
 A csv file is generated with an estimate of the probability of classes.
-<b> ROC AUC score</b>  on test data is 0.89.
+<b> ROC AUC score</b>  on test data is 0.891.
